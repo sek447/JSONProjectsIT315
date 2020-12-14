@@ -12,6 +12,17 @@
       "TravelEstimatedCost":"1900.00"
     },
     {
+      "TravelCountry":"South Korea",
+      "TravelDescripton":"Busan, a large port city in South Korea, is known for its beaches, mountains and temples. Busy Haeundae Beach features the Sea Life Aquarium, plus a Folk Square with traditional games such as tug-of-war, while Gwangalli Beach has many bars and views of modern Diamond Bridge.",
+      "TravelID":6,
+      "TravelImage":"https://raw.githubusercontent.com/sek447/JSONProjectsIT315/master/korea_flag.png",
+      "TravelCity":"Busan",
+      "TravelContinent":"East Asia",
+      "TravelSeason":"Fall",
+      "TravelFlightTime":"14",
+      "TravelEstimatedCost":"1900.00"
+    },
+    {
       "TravelCountry":"Canada",
       "TravelDescripton":"Toronto, the capital of the province of Ontario, is a major Canadian city along Lake Ontario’s northwestern shore. It's a dynamic metropolis with a core of soaring skyscrapers, all dwarfed by the iconic, free-standing CN Tower.",
       "TravelID":2,
